@@ -1,1 +1,0 @@
-# js-dev-capstone-starter-whack-a-mole
